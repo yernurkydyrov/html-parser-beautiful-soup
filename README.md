@@ -1,4 +1,4 @@
-#python first assn
+# python first assn
 Assignment 1
 
 Installation git clone https://github.com/man-c/pycoingecko.git cd pycoingecko python setup.py install
