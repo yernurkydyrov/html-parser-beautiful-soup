@@ -1,11 +1,11 @@
 # python first assn
-Assignment 1
+- Assignment 1
 
-Installation git clone https://github.com/man-c/pycoingecko.git cd pycoingecko python setup.py install
+- Installation git clone https://github.com/man-c/pycoingecko.git cd pycoingecko python setup.py install
 
-Usage from pycoingecko import CoinGeckoAPI cg = CoinGeckoAPI()
+- Usage from pycoingecko import CoinGeckoAPI cg = CoinGeckoAPI()
 
-Examples
+- Examples
 import requests
 from bs4 import BeautifulSoup
 
