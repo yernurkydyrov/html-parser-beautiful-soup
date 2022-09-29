@@ -1,5 +1,5 @@
-# python first assn
-- Assignment 1
+# python CoinGeckoAPI
+
 
 - Installation git clone https://github.com/man-c/pycoingecko.git cd pycoingecko python setup.py install
 
